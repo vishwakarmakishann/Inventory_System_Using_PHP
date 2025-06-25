@@ -1,7 +1,7 @@
 
 # 📦 Inventory Management System (PHP + MySQL + Bootstrap)
 
-A lightweight, role-based Inventory Management System built using **PHP**, **MySQL**, and **Bootstrap 5**. Designed for **Admins** to manage stock and **Users** to view products and place orders.
+A lightweight, role-based Inventory Management System built using **PHP**, **MySQL**, and **Bootstrap 5**. Designed for **Admins** to manage products, stocks & users and **Users** to view products, stocks, recent orders and low stock items.
 
 ---
 
